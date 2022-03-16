@@ -1,0 +1,32 @@
+How to Declare Variable in Dart
+There are 2 ways 
+a) Implicit  e.g var a = 100;
+b) Explicit  e.g int a ;
+
+Data Types in Dart
+a) Basic Data Types
+i) int
+ii) double
+iii) string
+iv bool
+b) Advance Data Types
+
+
+Dart Use
+a) DartPad
+b) Dart Install Locally (Dart SDK) (https://dart.dev/get-dart/archive)
+
+Why we set the Path in O/S?
+Download the .zip file , extract it . But computer don’t know how to lookup the dart command
+in the computer. U need to tell to the O/S where is the dart. 
+We set the Environment Variables in the O/S.
+
+Where we write the code in Dart?
+We need a Code Editor
+VSCode - Java , C++, C , JS , Dart , Flutter, Python
+Install the dart  extension
+
+printing ways
+print 
+$
+${}
