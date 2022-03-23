@@ -1,0 +1,27 @@
+1. Salary Calculator
+Basic Salary : 10000
+Allowances
+HRA : 50% of the BS
+DA: 20% of the BS
+TA : 30% of the BS
+MA : 25% of the BS
+PF - 5% Minus
+
+GS = BS + HRA + DA + TA + MA 
+NS = GS - PF - TAX
+
+TAX - Annual Income
+<5L no tax
+>5L 10% Tax
+>7L 20% Tax
+>9L 30% Tax
+
+
+2. Loops Questions
+a) Reverse a Number
+b) Palindrome a Number
+c) Prime Number
+d) ArmStrong Number
+e) Sum of Digit
+f) Sum of Odd and Even Digit
+A to F Menu Driven
