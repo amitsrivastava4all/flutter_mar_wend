@@ -1,0 +1,11 @@
+function ownFilter(callbackFn){
+    var arr = [10,20,30,40,50,10,20,10,20];
+    var sub = [];
+    for(var i = 0; i<arr.length; i++){
+        if(callbackFn(arr[i])){
+            sub.push(arr[i]);
+        }
+    }
+    return sub;
+}
+undefined
