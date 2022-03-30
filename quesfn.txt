@@ -1,0 +1,16 @@
+Calculator Create
+type add for addition
+type sub for subtraction
+type div for division
+type mul for multiplication
+
+write a function which expose on library level.
+named it calculator (Outer function)
+this function has all 4 operations mentioned above. (inner function)
+based on the input call the operation.
+
+Note: Don’t call these operation under the if else or switch case or ternary operator
+
+Create 2 files 
+a) First file contains all the logic stuff
+b) second file contains all the user input stuff and call the first file.
